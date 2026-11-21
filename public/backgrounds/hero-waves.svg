@@ -1,0 +1,11 @@
+<svg width="1440" height="760" viewBox="0 0 1440 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1440" y2="760" gradientUnits="userSpaceOnUse"><stop stop-color="#F7F2FF"/><stop offset="1" stop-color="#FFF9EE"/></linearGradient>
+    <linearGradient id="wave" x1="160" y1="0" x2="1280" y2="760" gradientUnits="userSpaceOnUse"><stop stop-color="#8B63D2" stop-opacity=".18"/><stop offset="1" stop-color="#C8A4F2" stop-opacity=".04"/></linearGradient>
+  </defs>
+  <rect width="1440" height="760" fill="url(#bg)"/>
+  <path d="M0 510C180 420 310 460 450 535C610 622 760 700 930 615C1110 525 1240 345 1440 390V760H0V510Z" fill="url(#wave)"/>
+  <path d="M0 620C190 552 350 560 510 632C700 716 820 740 1010 642C1190 550 1310 475 1440 510" stroke="#7046BD" stroke-opacity=".1" stroke-width="2"/>
+  <circle cx="1185" cy="150" r="150" fill="#D9B56D" fill-opacity=".08"/>
+  <circle cx="180" cy="180" r="86" fill="#7046BD" fill-opacity=".06"/>
+</svg>
